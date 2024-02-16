@@ -28,3 +28,4 @@ C:\Users\ZuckerkaBarm\Desktop\бэк\pr1backend\pr1\pr1\obj\Debug\net8.0\refint\
 C:\Users\ZuckerkaBarm\Desktop\бэк\pr1backend\pr1\pr1\obj\Debug\net8.0\pr1.pdb
 C:\Users\ZuckerkaBarm\Desktop\бэк\pr1backend\pr1\pr1\obj\Debug\net8.0\pr1.genruntimeconfig.cache
 C:\Users\ZuckerkaBarm\Desktop\бэк\pr1backend\pr1\pr1\obj\Debug\net8.0\ref\pr1.dll
+C:\Users\ZuckerkaBarm\Desktop\бэк\pr1backend\pr1\pr1\obj\Debug\net8.0\pr1.sourcelink.json
